@@ -5,6 +5,7 @@ categories:
   - HackTheBox
   - Writeups
 tags:
+  - Writeups
 image:
   path: /assets/img/HTB/Machines/Cap.webp
 ---
