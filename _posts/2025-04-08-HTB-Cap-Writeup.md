@@ -7,6 +7,6 @@ categories:
 tags:
   - Writeups
 image:
-  path: /assets/img/HTB/Machines/Cap.webp
+  path: /assets/img/HTB/Machines/Cap/Cap.webp
 ---
 # Test
