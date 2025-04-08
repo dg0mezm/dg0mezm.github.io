@@ -3,9 +3,9 @@ title: "HTB Machine - Cap - Writeup"
 excerpt: ""
 categories:
   - HackTheBox
+  - Machines
   - Writeups
 tags:
-  - Writeups
 image:
   path: /assets/img/HTB/Machines/Cap/Cap.png
 ---
